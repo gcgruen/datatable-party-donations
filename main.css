@@ -1,5 +1,5 @@
 body {
-     font-family: 'NotoSans', sans-serif;
+     font-family: 'NotoSans', sans-serif !important;
      color: #3c444d;
      font-size: 16px;
      line-height: 28px;
